@@ -1,0 +1,57 @@
+baseURL = 'https://J-Sexton0075.github.io/'
+locale = 'en-uk '
+title = 'js.dev'
+theme = 'hermit-v2'
+enableEmoji = true
+
+[params]
+    description = 'my little website'
+    themeColor = '#3b4252'
+    global_mathjax = true
+    siteNoIndex = true
+    homeSubtitlePrinter = true
+    homeSubtitle = "feeling significantly whimsical"
+
+    [[params.socialLinks]]
+        name = "github"
+        url = "https://github.com/J-Sexton0075"
+
+    [[params.socialLinks]]
+        name="linkedin"
+        url="https://www.linkedin.com/in/j-sexton"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.extensions]
+            [markup.goldmark.extensions.passthrough]
+                enable = true
+                [markup.goldmark.extensions.passthrough.delimiters]
+                    block = [['\[', '\]'], ['$$', '$$']]
+                    inline = [['\(', '\)']]
+
+[menu]
+    [[menu.main]]
+        name = "./about"
+        url = "pages/about/"
+        weight = 10
+    [[menu.main]]
+        name = "./posts"
+        url = "pages/posts/"
+        weight = 20
+    [[menu.main]]
+        name = "./projects"
+        url= "pages/projects/"
+        weight = 30
+    [[menu.main]]
+        name = "./false-facts"
+        url = "pages/false-facts/"
+        weight = 40
+    [[menu.main]]
+        name = "./books"
+        url="pages/books/"
+        weight = 50
+    [[menu.main]]
+        name="./quotes"
+        url="pages/quotes"
+        
+    

@@ -1,0 +1,14 @@
++++
+date = '2026-11-11T21:03:23Z'
+draft = true
+title = 'About'
++++
+Computer Science and Mathematics student, writer, etcetera.
+
+Currently Reading:
+- George R.R. Martin A Game of Thrones
+
+Recent Reads
+- Albert Camus The Myth of Sisyphus
+- Albert Camus The Stranger
+- Eugenia Cheng Is Maths Real
