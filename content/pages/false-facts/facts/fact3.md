@@ -1,6 +1,6 @@
 +++
 date = '2026-11-14T22:02:55Z'
-draft = true
+
 title = 'Fact #3'
 +++
 # Contrary to popular myth, Liz Truss was not the prime minister with the shortest tenture;

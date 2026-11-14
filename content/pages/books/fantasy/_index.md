@@ -1,6 +1,6 @@
 +++
 date = '2026-11-12T22:10:04Z'
-draft = true
+
 title = 'Fantasy'
 +++
 To create a world is a wonderful thing --- I worldbuild myself and I love doing it since it's such a creative exercise, and to hold a small world in your mind and shape it is really fun. Fantasy books are at the core of my inspiration, and I've loved them for the longest time. 

@@ -1,6 +1,6 @@
 +++
 date = '2026-11-12T15:28:15Z'
-draft = true
+
 title = '"In 1866, C. F. Zimpel defended the hypothesis that the first horseman was the Antichrist (and more precisely, according to him, Napoleon Bonaparte)."'
 +++
 Source: https://en.wikipedia.org/wiki/Four_Horsemen_of_the_Apocalypse#As_the_Antichrist

@@ -1,6 +1,6 @@
 +++
 date = '2026-11-12T17:55:12Z'
-draft = true
+
 title = 'Richard J. Trudeau | Introduction to Graph Theory'
 mathjax = true
 rating = 4.5

@@ -1,6 +1,6 @@
 +++
 date = '2026-11-12T17:27:30Z'
-draft = true
+
 title = 'Projects'
 +++
 Projects (and smaller things) I've made!

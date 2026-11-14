@@ -1,6 +1,6 @@
 +++
 date = '2026-11-12T15:18:41Z'
-draft = true
+
 title = 'Quotes'
 +++
 <p>

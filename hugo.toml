@@ -35,27 +35,27 @@ enableEmoji = true
 
 [menu]
     [[menu.main]]
-        name = "./about"
+        name = "~/pages/about"
         url = "pages/about/"
         weight = 10
     [[menu.main]]
-        name = "./posts"
+        name = "~/pages/posts"
         url = "pages/posts/"
         weight = 20
     [[menu.main]]
-        name = "./projects"
+        name = "~/pages/projects"
         url= "pages/projects/"
         weight = 30
     [[menu.main]]
-        name = "./false-facts"
+        name = "~/pages/false-facts"
         url = "pages/false-facts/"
         weight = 40
     [[menu.main]]
-        name = "./books"
+        name = "~/pages/books"
         url="pages/books/"
         weight = 50
     [[menu.main]]
-        name="./quotes"
+        name="~/pages/quotes"
         url="pages/quotes"
         
     

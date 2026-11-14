@@ -1,5 +1,5 @@
 +++
-draft = true
+
 title = 'Theory of Mathematics'
 +++
 > 'Insert Hardy quote here.'

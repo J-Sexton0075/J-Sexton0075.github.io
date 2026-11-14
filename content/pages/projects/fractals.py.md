@@ -1,6 +1,6 @@
 +++
 date = '2026-11-13T16:09:43Z'
-draft = true
+
 title = 'fractals.py'
 +++
 

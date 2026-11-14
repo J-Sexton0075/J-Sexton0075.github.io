@@ -1,6 +1,6 @@
 +++
 date = '2025-04-04T16:37:00Z'
-draft = true
+
 title = "Cansat (Rednock Team 'Cheese' 24/25)"
 +++
 

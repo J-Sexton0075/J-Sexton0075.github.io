@@ -1,6 +1,6 @@
 +++
 date = '2026-11-11T22:18:07Z'
-draft = true
+
 title = 'Fact #1'
 +++
 # It is a widespread misconception that Sydney is the capital of Australia.

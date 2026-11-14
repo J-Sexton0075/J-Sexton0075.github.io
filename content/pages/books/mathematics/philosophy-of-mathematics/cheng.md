@@ -1,6 +1,6 @@
 +++
 date = '2026-11-11T22:31:16Z'
-draft = true
+
 title = 'Eugenia Cheng | Is Maths Real'
 rating = 4
 +++

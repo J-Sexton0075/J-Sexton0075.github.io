@@ -1,6 +1,6 @@
 +++
 date = '2026-11-08T09:33:00Z'
-draft = true
+
 title = 'Mundus Novus'
 +++
 

@@ -1,5 +1,5 @@
 +++
-draft = true
+
 title = 'Mathematics'
 +++
 Mathematics. You either hate it, or you say you love it while actually hating it. At some point, maths went from counting apples to real analysis and I can't really say how we got here. No subject where the sentence 
