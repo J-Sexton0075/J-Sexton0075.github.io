@@ -1,6 +1,5 @@
 +++
 date = '2026-11-11T22:28:02Z'
-draft = true
 title = 'Books'
 +++
 ## Books I've Read

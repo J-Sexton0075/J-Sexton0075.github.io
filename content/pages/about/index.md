@@ -1,6 +1,5 @@
 +++
 date = '2026-11-11T21:03:23Z'
-draft = true
 title = 'About'
 +++
 Computer Science and Mathematics student, writer, etcetera.
