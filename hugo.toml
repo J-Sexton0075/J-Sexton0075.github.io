@@ -29,6 +29,10 @@ enableEmoji = true
                     block = [['\[', '\]'], ['$$', '$$']]
                     inline = [['\(', '\)']]
 
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
+
 [menu]
     [[menu.main]]
         name = "./about"
