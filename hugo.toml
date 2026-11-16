@@ -6,7 +6,7 @@ enableEmoji = true
 
 [params]
     description = 'my little website'
-    themeColor = '#3b4252'
+    
     global_mathjax = true
     siteNoIndex = true
     homeSubtitlePrinter = true
