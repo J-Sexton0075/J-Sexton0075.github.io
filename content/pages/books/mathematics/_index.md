@@ -2,10 +2,11 @@
 
 title = 'Mathematics'
 +++
-Mathematics. You either hate it, or you say you love it while actually hating it. At some point, maths went from counting apples to real analysis and I can't really say how we got here. No subject where the sentence 
+Mathematics. You either hate it, or you say you love it while actually hating it. At some point, maths went from counting apples to real analysis and I can't really say how we got here. No subject where the following sentence is a meaningful(?) statement should be taken seriously
 > 'In the mathematical theory of knots, the unknot, [or] not knot, [...] is the least knotted of all knots.'[^1]
 
-Is a serious statement should have meaning. You think applied mathematics is any better, but statistics also suffered the same fate. I only know it has something to do with measure theory, and I've been informed by multiple sources that the measure theory module in my department is not fun.
+
+You think applied mathematics is any better, but statistics also suffered the same fate. I only know it has something to do with measure theory, and I've been informed by multiple sources that the measure theory module in my department is not fun.
 
 But I digress, mathematics. Ah, beautiful mathematics. And ugly mathematics, equally. Since I study maths it is no surprise that I've read some maths-associated books. Behold.
 
