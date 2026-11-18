@@ -10,7 +10,7 @@ enableEmoji = true
     global_mathjax = true
     siteNoIndex = true
     homeSubtitlePrinter = true
-    homeSubtitle = "when the academically challenging course ends up being academically challenging"
+    homeSubtitle = 'git commit -m "added changes"'
 
     [[params.socialLinks]]
         name = "github"

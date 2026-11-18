@@ -11,3 +11,13 @@ Recent Reads
 - Albert Camus The Myth of Sisyphus
 - Albert Camus The Stranger
 - Eugenia Cheng Is Maths Real
+
+Books I Wish To Read:
+- The Count of Monte Cristo
+- Various Fyodor Dostoevsky works
+- Albert Camus, The Plague and The Fall
+- Franz Kafka, The Trial and The Metamorphosis
+- The next book in various fantasy series.
+- Counterexamples in Analysis
+- Counterexamples in Topology
+- How to Prove It: A Structured Approach 
